@@ -1,4 +1,4 @@
-# Oblig X
+# Oblig 3
 
 OsloMet brukernavn: s358978
 
@@ -6,7 +6,7 @@ GitHub brukernavn: Leliamm
 
 GitHub repo URL: https://github.com/DATA1700/oblig-3-Leliamm.git
 
-URL til Heroku app: 
+URL til Heroku app: https://oblig03data1700.herokuapp.com/
 
 Fullt navn: Lelia Marcela Marcau
 
